@@ -11,7 +11,7 @@ function App() {
       alert("Please enter a city");
       return;
     }
-    const API_KEY = bcd4047aacc546a0284ee4b7f702a0ff;
+    const API_KEY = "bcd4047aacc546a0284ee4b7f702a0ff";
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`;
     setLoading(true);
     const response = await fetch(url);
