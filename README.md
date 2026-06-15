@@ -1,16 +1,114 @@
-# React + Vite
+# 🌤️ Weather Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based Weather Dashboard that allows users to search for real-time weather information for any city using the OpenWeather API.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://react-weather-dashboard-ivory.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+* Search weather by city name
+* Real-time weather data using OpenWeather API
+* Weather icons based on current conditions
+* Temperature displayed in Celsius
+* Wind speed information
+* Current date and time display
+* Loading state while fetching data
+* Error handling for invalid city names
+* Enter key support for quick searches
+* Responsive and modern UI
+* Secure API key management using environment variables
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+* React.js
+* JavaScript (ES6+)
+* CSS3
+* OpenWeather API
+* Vite
+* Vercel
+
+---
+
+## 📸 Screenshots
+
+Add screenshots here after deployment.
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+├── App.jsx
+├── App.css
+└── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
+cd react-weather-dashboard
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Create a `.env` file in the project root:
+
+```env
+VITE_API_KEY=your_openweather_api_key
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📚 Concepts Learned
+
+* React Hooks (`useState`)
+* API Integration with Fetch
+* Async/Await
+* Conditional Rendering
+* Environment Variables
+* Error Handling
+* Dynamic Image Rendering
+* Event Handling
+* Responsive UI Design
+* Git & GitHub Workflow
+
+---
+
+## 🌐 Deployment
+
+The application is deployed on Vercel.
+
+Live URL:
+https://react-weather-dashboard-ivory.vercel.app/
+
+---
+
+## 👨‍💻 Author
+
+**Ragavendiran P**
+
+* B.E. Electrical and Electronics Engineering
+* Sri Sairam Institute of Technology
+* Passionate about Full Stack Development and Software Engineering
