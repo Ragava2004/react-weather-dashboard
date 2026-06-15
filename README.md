@@ -27,7 +27,6 @@ A modern React-based Weather Dashboard that allows users to search for real-time
 * CSS3
 * OpenWeather API
 * Vite
-* Vercel
 
 ---
 
@@ -92,19 +91,4 @@ npm run dev
 
 ---
 
-## 🌐 Deployment
 
-The application is deployed on Vercel.
-
-Live URL:
-https://react-weather-dashboard-ivory.vercel.app/
-
----
-
-## 👨‍💻 Author
-
-**Ragavendiran P**
-
-* B.E. Electrical and Electronics Engineering
-* Sri Sairam Institute of Technology
-* Passionate about Full Stack Development and Software Engineering
