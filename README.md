@@ -2,7 +2,11 @@
 
 A modern React-based Weather Dashboard that allows users to search for real-time weather information for any city using the OpenWeather API.
 
+## 🚀 Live Demo
 
+https://react-weather-dashboard-ivory.vercel.app/
+
+---
 
 ## ✨ Features
 
@@ -27,6 +31,7 @@ A modern React-based Weather Dashboard that allows users to search for real-time
 * CSS3
 * OpenWeather API
 * Vite
+* Vercel
 
 ---
 
@@ -91,4 +96,10 @@ npm run dev
 
 ---
 
+## 🌐 Deployment
+
+The application is deployed on Vercel.
+
+Live URL:
+https://react-weather-dashboard-ivory.vercel.app/
 
