@@ -2,6 +2,8 @@
 
 A modern React-based Weather Dashboard that allows users to search for real-time weather information for any city using the OpenWeather API.
 
+![demo](react-weather-dashboard.gif)
+
 ## 🚀 Live Demo
 
 https://react-weather-dashboard-ivory.vercel.app/
